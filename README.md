@@ -1,0 +1,1 @@
+This completes E06b-Bullets assignment. I was unable to figure out the extra credit portion of this assignment.
